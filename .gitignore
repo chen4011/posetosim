@@ -1,0 +1,12 @@
+openpose/
+pose_cam1_json/
+/pose2sim/Pose2Sim/Demo/
+calibration result.PNG
+**/__pycache__/
+*.pyc
+logs.txt*
+*.egg-info/
+dist/
+**/*.avi
+**/*.mp4
+**/*.json
