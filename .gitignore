@@ -10,4 +10,5 @@ dist/
 **/*.avi
 **/*.mp4
 **/*.json
+**/*.MOV
 *.png
