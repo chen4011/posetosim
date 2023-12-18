@@ -1,5 +1,6 @@
 openpose/
 pose_cam1_json/
+result/
 /pose2sim/Pose2Sim/Demo/
 calibration result.PNG
 **/__pycache__/

@@ -91,9 +91,9 @@ reproj_error_threshold_association = 20 # px
 
 
 [triangulation]
-reproj_error_threshold_triangulation = 15 # px
+reproj_error_threshold_triangulation = 20 # px
 likelihood_threshold = 0.3
-min_cameras_for_triangulation = 1
+min_cameras_for_triangulation = 2
 interpolation = 'cubic' #linear, slinear, quadratic, cubic, or none
 # 'none' if you don't want to interpolate missing points
 interp_if_gap_smaller_than = 10 # do not interpolate bigger gaps
